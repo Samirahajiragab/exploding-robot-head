@@ -67,6 +67,6 @@ body {
 }
 
 .robot:hover .robot-head-right {
-right:0;
-top:-10px;
+  right:  0;
+  text-outline: ;-10px;
 }

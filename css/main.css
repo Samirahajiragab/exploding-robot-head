@@ -68,4 +68,5 @@ body {
 
 .robot:hover .robot-head-right {
   right: 0;
+  top: -10px;
 }
